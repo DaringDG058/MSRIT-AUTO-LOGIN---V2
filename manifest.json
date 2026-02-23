@@ -20,7 +20,8 @@
   "content_scripts": [
     {
       "matches": ["https://parents.msrit.edu/*"],
-      "js": ["contentdg.js"]
+      "js": ["content.js"]
     }
   ]
+
 }
