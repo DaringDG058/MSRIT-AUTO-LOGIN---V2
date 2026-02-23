@@ -13,15 +13,15 @@ Doesn't work with Mozilla Firefox, Safari or Tor.
 
 
 🛠️ Installation :
-Clone or download this repository as a .zip file and extract it.
+  Clone or download this repository as a .zip file and extract it.
 
-Open Google Chrome / Brave and navigate to chrome://extensions/.
+  Open Google Chrome / Brave and navigate to chrome://extensions/.
 
-Enable Developer mode in the top right corner.
+  Enable Developer mode in the top right corner.
 
-Click Load unpacked and select the folder containing the extension files.
+  Click Load unpacked and select the folder containing the extension files.
 
-Pin the extension, enter your details, and enjoy!
+  Pin the extension, enter your details, and enjoy!
 
 💡 Usage
-Click the extension icon in your browser toolbar to save your details for the first time. After that, just navigate to the student portal (https://parents.msrit.edu/) and let the extension do the rest!
+  Click the extension icon in your browser toolbar to save your details for the first time. After that, just navigate to the student portal (https://parents.msrit.edu/) and let the extension do the rest!
